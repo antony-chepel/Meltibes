@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Melbetips</string>
+    <string name="mell_web">https://rfm.agency/API_GEO_IP/APP_com_melbetips_app/</string>
+</resources>
